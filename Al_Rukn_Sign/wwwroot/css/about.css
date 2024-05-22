@@ -1,0 +1,19 @@
+﻿#container {
+    height: 100vh;
+}
+#top-div {
+    height: 50vh;
+    width: 100vw;
+    background-color: #009900;
+    margin: auto;
+    text-align: center;
+}
+
+#bottom-div {
+    height: 50vh;
+    width: 100vw;
+    background-color: #990000;
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
+}

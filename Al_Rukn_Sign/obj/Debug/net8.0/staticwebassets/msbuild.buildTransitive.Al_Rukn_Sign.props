@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Al_Rukn_Sign.props" />
+</Project>
